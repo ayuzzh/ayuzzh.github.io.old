@@ -4,7 +4,7 @@ I am interested in open source projects..
 
 
 # Projects
-<a href="https://github.com/kmayushkm/email">E-mail client written in Python</a>
+E-mail Clint written using Python<a href="https://github.com/kmayushkm/E-mailing">E-mailing</a>
 
 
 # Contact me:
